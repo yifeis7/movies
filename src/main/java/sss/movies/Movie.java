@@ -22,8 +22,8 @@ public class Movie {
     private String poster;
     private List<String> genres;
     private List<String> backdrops;
-    @DocumentReference
-    private List<String> reviewIds;
+    @DocumentReference //store only the Id
+    private List<Review> reviewIds;
 
 
 }
