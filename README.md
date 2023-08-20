@@ -12,7 +12,7 @@ This is a backend part of the full-stack Java application that provides a platfo
 - Dynamic frontend using React
 - Various website components including Home, Hero, Header, and Trailer
 - Movie Reviews functionality with HTTP requests for adding and retrieving reviews <Br>
-### Frontend Src link
+### Frontend Link
 [movie-client](https://github.com/yifeis7/movie-client)
 
 
