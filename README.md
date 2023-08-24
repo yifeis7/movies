@@ -6,6 +6,8 @@
 ![Demo](demo.gif)
 ### Add Review
 ![Add](AddReview.gif)
+### Trailer
+![Trailer](Trailer.gif)
 ## Description
 This is a backend part of the full-stack Java application that provides a platform for movie reviews. It utilizes SpringBoot for web development, MongoDB for data management, and React framework for frontend.
 
